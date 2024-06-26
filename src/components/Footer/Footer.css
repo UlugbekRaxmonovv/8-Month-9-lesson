@@ -1,0 +1,104 @@
+footer{
+    background: #0B0B0B;
+    height: 65px;
+    margin-top: 91px ;
+    
+}
+.footr_All{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fotr_row h1{
+    
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.08px;
+text-align: center;
+color: #FFFFFF;
+padding: 25px 0;
+
+}
+.section{
+    background: #F6F6F6;
+    height: 377px;
+    border-radius: 22px;
+    margin-top: 135px ;
+    padding: 33px 0;
+}
+.section_all{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.section_all_row h1{
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    text-align: left;
+    color: #1E1D1D;
+    height: 40px;
+    
+}
+.section_all_row p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+color: #8B8E99;
+height: 29px;
+
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 443px;
+    height: 60px;
+    border-radius: 15px ;
+    background: #FFFFFF;
+    margin-top: 12px ;
+
+    
+}
+.section_all_row img{
+    width: 272px;
+    height: 301px;
+    border-radius: 15px;
+    
+}
+.input_all input{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20.08px;
+    text-align: left;
+    color: #8B8E99B2;
+    background-color: white;
+    border: none;
+    outline: none;
+    padding: 0 10px;
+    
+}
+.input_all button{
+    width: 131px;
+height: 45px;
+background: #3858D6;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 20.08px;
+text-align: center;
+color: #FFFFFF;
+border-radius: 10px;
+border: none;
+margin-left: 60px;
+
+
+
+}
+
+

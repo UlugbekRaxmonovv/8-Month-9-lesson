@@ -1,0 +1,43 @@
+.hammasi{
+    background: linear-gradient(155.28deg, #383638 2.06%, #0B0B0B 33.08%);
+
+}
+.main{
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+    padding: 102px 0;
+}
+.main_all h1{
+    width: 457px;
+    height: 275px;
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 80.32px;
+    text-align: left;
+    color: #FFFFFF;
+        
+}
+.main_all p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20.08px;
+    text-align: left;
+    width: 456px;
+    height: 83px;
+    color: #8B8E99;
+        
+}
+.main_all img{
+    width: 461px;
+    height: 563px;  
+}
+.input_all{
+    display: flex;
+    align-items: center;
+}
+.input_all svg{
+    margin-left: 10px;
+}

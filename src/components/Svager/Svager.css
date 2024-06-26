@@ -1,0 +1,74 @@
+.p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p1 p{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    text-align: center;
+    color: #3858D6;
+    height: 24px;
+    
+}
+.p1 h1{
+    font-family: Inter;
+font-size: 36px;
+font-weight: 700;
+line-height: 43.57px;
+text-align: center;
+height: 43px;
+color: #1E1D1D;
+
+}
+.Svager_all{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 55px 0;
+}
+.Svager_row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 524px;
+    height: 239px;
+    background: #F6F6F6;
+    border-radius: 22px;
+}
+.Svager_row_al{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.Svager_row_row img{
+    width: 162.3px;
+    height: 179px;
+    border-radius: 15px ;
+    
+}
+.Svager_row_row h1{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: left;
+    color: #1E1D1D;
+    height: 24px;
+    
+}
+.Svager_row_row p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+color: #8B8E99;
+width: 255.97px;
+height: 61px;
+padding: 10px 0;
+
+}

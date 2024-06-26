@@ -1,0 +1,54 @@
+.Apple{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 73px 0;
+}
+.Apple_all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 354px;
+    height: 239px;
+    background: #F6F6F6;
+    border-radius: 22px;
+    
+}
+.appli{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.alli_1 img{
+    width: 85px;
+    height: 148.26px;    
+}
+.alli_1 h1{
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    text-align: left;
+    color: #1E1D1D;
+    width: 173px;
+height: 40px;
+
+    
+}
+.alli_1 p{
+    width: 173px;
+height: 40px;
+top: 130px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+color: #8B8E99;
+
+}
